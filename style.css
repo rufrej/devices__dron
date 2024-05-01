@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     font-family: "Hind Siliguri", sans-serif;;
+}
+
+.container{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    column-gap: 30px;
+
+}
+
+.devece__block{
+padding: 75px 35px 74px;
+max-width: 258px; 
+background: linear-gradient(257.26deg, #008BF0 -13.2%, #D943C9 130.95%);
+min-width: 555px;
+
+}
+
+
+.devece__subtitle{
+    
+font-size: 16px;
+font-weight: 500;
+line-height: 27px;
+text-align: left;
+color: #F4F9FC;
+text-transform: uppercase;
+
+
+
+}
+
+.devece__title{
+color: #F4F9FC;
+font-size: 31px;
+line-height: 40px;
+margin-bottom: 7px;
+}
+
+.devece__link{
+    color: #F4F9FC;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: lowercase;
+    
+
+}
